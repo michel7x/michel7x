@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @michel7x
-- 👀 I’m interested in Software Engineering and Biomedical Engineering
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on E-Health projects
-- 📫 How to reach me +52 33 2832 0534
+- 👋 Hi, I’m @michel7x, I'm from México, and I'm Software Engineer working in Sweden 🇸🇪
+- 👀 I’m interested in videogames development
+- 🌱 I’m currently learning Unity
+- 📫 How to reach me +46 76 600 33 61
 
 <!---
 michel7x/michel7x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
