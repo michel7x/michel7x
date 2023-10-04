@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michel7x, I'm from México, and I'm Software Engineer working in Sweden 🇸🇪
+- 👋 Hi, I’m @michel7x, I'm from México 🇲🇽, and I'm Software Engineer working in Sweden 🇸🇪
 - 👀 I’m interested in videogames development
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me +46 76 600 33 61
